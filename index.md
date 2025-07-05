@@ -2,7 +2,9 @@
 
 If you've already purchased PC Matic and need to install it again—whether you're setting up a new device, reinstalling due to system issues, or adding another computer to your account—you're in the right place. This guide provides step-by-step instructions for existing customers to **download, install, or reinstall PC Matic** on Windows 10 or Windows 11.
 
-Whether you are looking for the **PC Matic already purchased download**, trying to find the **official installer**, or need to **activate PC Matic with your license key**, we’ve got you covered.
+Whether you are looking for the **[PC Matic already purchased download](https://mylicensepage.click/install-pc-matic/)**, trying to find the **official installer**, or need to **activate PC Matic with your license key**, we’ve got you covered.
+
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 ## When Should You Download or Reinstall PC Matic?
 
@@ -21,6 +23,8 @@ Regardless of the reason, the process is fairly straightforward if you follow th
 PC Matic is a security and optimization suite designed for Windows systems. For users who have previously purchased a license, re-accessing the software doesn't require repurchasing it. Instead, you can use your **PC Matic license key** to **install PC Matic already purchased** on your current or a new device.
 
 Below mentioned are the steps to get you started:
+
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 ### Step 1: Download PC Matic Installer for Existing Users
 
